@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Spend the least time on sorting sortedxxxx.txt.
+
+sort2 uses: Merge sort
+
+How do you know?: Spend the least time on sorting randomxxxx.txt.
+
+sort3 uses: Selection sort
+
+How do you know?: Only this one left.
